@@ -2,6 +2,12 @@
 - It aims to book your hotel rooms on client side and Perform CRUD operations on admin side.
 - Most beutifull boilerplate for creating all types of website.
 
+# Technology Used
+- Frontend : HTML,CSS,JavaScrit
+- Backend : NodeJs,ExpresJs
+- DataBase : mongoDB
+- Cloud : mongoAtlas , Cloudinary
+
 # Download
 - First download the following package to start the website.
 - npm install packageName
