@@ -12,4 +12,6 @@ Most beutifull boilerplate for creating all types of website.
 - second open Git Bash and start the noode js
 - third run the following command in Git Bash
 - node app.js
-  
+
+# website images
+
