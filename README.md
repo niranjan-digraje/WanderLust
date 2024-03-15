@@ -15,7 +15,7 @@
 
 # How to run the website
 - first in command prompt start the mongoDB shell and switch to wanderlust collection
-- second open Git Bash and start the noode js
+- second open Git Bash and start the node js
 - third run the following command in Git Bash
 - node app.js
 
